@@ -13,4 +13,4 @@ I want o upgrade my modified Jforum version to 2.3.5 if possible without breakin
 
 As of now I do not recommend any users to try my version of Jforum as it is not intentionally meant for distribution and might as well not serve your needs.
 
-- Avec
+Avec
